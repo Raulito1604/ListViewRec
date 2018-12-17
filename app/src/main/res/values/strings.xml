@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ListViewRec</string>
+
+    <string-array name="quevol">
+        <item>Que toqui la loteria</item>
+        <item>Que no plogui tant</item>
+        <item>Que faci sol</item>
+        <item>Menjar torrons</item>
+        <item>Menja avellanes</item>
+        <item>Nocilla</item>
+    </string-array>
+
+</resources>

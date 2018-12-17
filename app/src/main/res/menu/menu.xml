@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/exListView"
+        android:title="Ex ListView-Spinner"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/openWeather"
+        android:title="Descarregar OpenWeather"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/readMemInt"
+        android:title="Llegir Mem. Interna"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/writeMemInt"
+        android:title="Escriure Mem. Interna"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/readSD"
+        android:title="Llegir SD"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/writeSD"
+        android:title="Escriure SD"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/readProgram"
+        android:title="Llegir programa"
+        app:showAsAction="never" />
+
+
+
+
+
+</menu>

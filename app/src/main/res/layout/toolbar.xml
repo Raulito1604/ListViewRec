@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:minHeight="?attr/actionBarSize"
+    android:elevation="4dp"
+    android:background="?attr/colorPrimary"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+    app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+
+
+    <!-- atributo standard, tool bar como el action bar, menus en parte de arriba,
+        color del tema principal que uso , si no hay colorprimary de styles
+        estandard de densidad de pantalla, 4dp
+        menu overflow blanco sobre la tool bar negra para que se vea
+
+        no posem id aquí, sino al include
+        -->
+
+</android.support.v7.widget.Toolbar>
+
